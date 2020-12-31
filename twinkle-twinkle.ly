@@ -5,7 +5,7 @@
 
 \relative c' {
   c8\mf c g' b
-  a a <g d>4
+  a a <g <g
   f4 f e e
   d d c2
 }
